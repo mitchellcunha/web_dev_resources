@@ -12,6 +12,9 @@ Javascript Without Loops - http://jrsinclair.com/articles/2017/javascript-withou
 ### TDD
 What every unit test needs to accomplish - https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.uq6i56v3w
 
+### React
+Functional setState is the future of React- https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b#.cbshbu5p3
+
 ### ES6
 
 #### Generators
