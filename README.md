@@ -21,3 +21,7 @@ Functional setState is the future of React- https://medium.freecodecamp.com/func
 Going Async with Generators - https://davidwalsh.name/async-generators
 
 The ultimate generator based flow-control goodness for nodejs - https://github.com/tj/co
+
+### UI
+
+Smooth and easy parallax scrolling -https://github.com/dixonandmoe/rellax
