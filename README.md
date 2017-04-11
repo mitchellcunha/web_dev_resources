@@ -15,6 +15,8 @@ What every unit test needs to accomplish - https://medium.com/javascript-scene/w
 ### React
 Functional setState is the future of React- https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b#.cbshbu5p3
 
+Reusable State with Higher Order Components - https://daveceddia.com/extract-state-with-higher-order-components/?utm_source=reactnl&utm_medium=email
+
 ### ES6
 
 #### Generators
