@@ -17,6 +17,9 @@ Functional setState is the future of React- https://medium.freecodecamp.com/func
 
 Reusable State with Higher Order Components - https://daveceddia.com/extract-state-with-higher-order-components/?utm_source=reactnl&utm_medium=email
 
+### Flow
+Introduction to Flow and its benefits - https://www.youtube.com/watch?v=xWMuAUbXcdQ
+
 ### ES6
 
 #### Generators
