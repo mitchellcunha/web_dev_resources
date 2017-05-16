@@ -6,6 +6,8 @@ Clean Code adapted for javascript - https://github.com/ryanmcdermott/clean-code-
 
 Javascript Without Loops - http://jrsinclair.com/articles/2017/javascript-without-loops/?utm_source=javascriptweekly&utm_medium=email
 
+Easy Ajax calls in browsers - https://css-tricks.com/using-fetch/
+
 ### Performance
 10 things I learned making the fastest site in the world - https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.1bq18a5kg
 
