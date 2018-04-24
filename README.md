@@ -26,12 +26,9 @@ General best practices - https://engineering.musefind.com/our-best-practices-for
 ### Flow
 Introduction to Flow and its benefits - https://www.youtube.com/watch?v=xWMuAUbXcdQ
 
-### ES6
+### ES6 and beyond
 
-#### Generators
-Going Async with Generators - https://davidwalsh.name/async-generators
-
-The ultimate generator based flow-control goodness for nodejs - https://github.com/tj/co
+Useful examples of everying in 2016, 2017, 2018 - https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e
 
 ### UI
 
