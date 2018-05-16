@@ -33,3 +33,4 @@ Useful examples of everying in 2016, 2017, 2018 - https://medium.freecodecamp.or
 ### UI
 
 Smooth and easy parallax scrolling -https://github.com/dixonandmoe/rellax
+All things browser scrolling - https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations
