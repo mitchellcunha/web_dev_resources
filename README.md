@@ -23,7 +23,11 @@ Reusable State with Higher Order Components - https://daveceddia.com/extract-sta
 
 Loadable components with react-loader (easy code splitting) - https://github.com/thejameskyle/react-loadable
 
+Lazy Loading without loadable - https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52
+
 General best practices - https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8
+
+
 
 ### Flow
 Introduction to Flow and its benefits - https://www.youtube.com/watch?v=xWMuAUbXcdQ
